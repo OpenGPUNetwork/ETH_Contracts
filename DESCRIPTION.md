@@ -32,4 +32,3 @@ npm install
 ## Contact
 
 For more information, please visit our [website](https://www.opengpu.network) or contact us at support@opengpu.network.
-```
