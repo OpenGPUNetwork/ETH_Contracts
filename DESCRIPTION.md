@@ -1,6 +1,5 @@
 ### DESCRIPTION.md
 
-```markdown
 # OpenGPU Network ETH Contracts
 
 ## Description
