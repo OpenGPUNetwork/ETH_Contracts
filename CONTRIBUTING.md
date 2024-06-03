@@ -1,6 +1,5 @@
 ### CONTRIBUTING.md
 
-```markdown
 # Contributing to OpenGPU Network ETH Contracts
 
 We welcome contributions from the community to help improve and expand the OpenGPU Network. Here are some guidelines to get started.
