@@ -1,6 +1,5 @@
 ### README.md
 
-```markdown
 # OpenGPU Network ETH Contracts
 
 This repository contains the Ethereum smart contracts for the OpenGPU Network project. These contracts are designed to facilitate decentralized GPU computing, leveraging idle GPUs from everyday users.
