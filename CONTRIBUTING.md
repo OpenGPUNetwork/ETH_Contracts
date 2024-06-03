@@ -48,4 +48,3 @@ By contributing to this repository, you agree that your contributions will be li
 ## Contact
 
 If you have any questions, feel free to reach out to us at support@opengpu.network.
-```
